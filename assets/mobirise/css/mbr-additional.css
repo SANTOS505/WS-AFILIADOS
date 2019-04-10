@@ -1496,6 +1496,27 @@ body {
   padding-bottom: 45px;
   background-color: #000000;
 }
+.cid-rng8v2eG6B {
+  background: #efefef;
+  padding-top: 45px;
+  padding-bottom: 30px;
+}
+.cid-rng8v2eG6B .image-block {
+  margin: auto;
+}
+.cid-rng8v2eG6B figcaption {
+  position: relative;
+}
+.cid-rng8v2eG6B figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rng8v2eG6B .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rmVev2SmLF {
   padding-top: 30px;
   padding-bottom: 30px;
