@@ -1393,8 +1393,19 @@ body {
 .jq-selectbox:hover .jq-selectbox__trigger-arrow {
   border-top-color: #32ea0e;
 }
-.cid-rmUUlWrm4Q {
+.cid-rooQi78Z6o {
   padding-top: 75px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rooQi78Z6o .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rooQi78Z6o B {
+  color: #ff0000;
+}
+.cid-rmUUlWrm4Q {
+  padding-top: 30px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
